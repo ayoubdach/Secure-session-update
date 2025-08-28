@@ -286,4 +286,5 @@ const progressInterval = setInterval(() => {
 <?php endif; ?>
 </script>
 </body>
+
 </html>
